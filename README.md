@@ -11,6 +11,7 @@
 ## 🛠️ My favorite tools
 
 <p>
+     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="arCORE" src="https://img.shields.io/badge/ARCore%20-%232370ED.svg?logo=google&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href=""><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white"></a>
@@ -20,7 +21,7 @@
    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-   <a href="#"><img alt="React" src="https://img.shields.io/badge/SparkAR%20-%2320232a.svg?logo=facebook&logoColor=%4267B2"></a>
+   <a href="#"><img alt="SparkAR" src="https://img.shields.io/badge/SparkAR%20-%2320232a.svg?logo=facebook&logoColor=%4267B2"></a>
    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity%20-%2320232a.svg?logo=unity&logoColor=black"></a>
    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
    
