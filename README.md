@@ -44,7 +44,7 @@
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
   <a href="https://www.linkedin.com/in/aishanipachauri/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@aishani.pachauri"><img alt="Medium" title="Medium" src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://aishani-pachauri.medium.com/"><img alt="Medium" title="Medium" src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://www.behance.net/aishanipachaurii" alt="Behance">
     <img src="https://img.shields.io/badge/-Behance-053EFF?style=for-the-badge&logoColor=FAFAFA&logo=behance"/></a>
   <a href="https://dev.to/aishanipach"><img alt="Dev.to" title="Aishani Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a>
