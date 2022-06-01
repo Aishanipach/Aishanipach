@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm Aishani</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm Aishani</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="45px"> </h1>
    
 <!-- Typing SVG - https://github.com/Aishanipach/readme-typing-svg -->
 <p align="center">
