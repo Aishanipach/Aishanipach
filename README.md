@@ -12,6 +12,7 @@
 
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+   <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux%20-black.svg?logo=redux&logoColor=purple"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma%20-%18363218.svg?logo=figma&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
      <a href="#"><img alt="arCORE" src="https://img.shields.io/badge/ARCore%20-%232370ED.svg?logo=google&logoColor=white"></a>
