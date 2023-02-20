@@ -23,7 +23,7 @@
   <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS%20-orange.svg?logo=amazonaws&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a></br>
    <a href="#"><img alt="SparkAR" src="https://img.shields.io/badge/SparkAR%20-%2320232a.svg?logo=facebook&logoColor=%4267B2"></a>
    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity%20-%2320232a.svg?logo=unity&logoColor=black"></a>
    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
