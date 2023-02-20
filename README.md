@@ -3,7 +3,8 @@
    
 <!-- Typing SVG - https://github.com/Aishanipach/readme-typing-svg -->
 <p align="center">
-<a href="https://github.com/Aishanipach/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=70A4FC&center=true&lines=Front-End+Developer;Unity-+Augmented+Reality+Dev;UI%2FUX;Sippin'+Coffee%2C+Missin'+Semicolons"></a>
+<a href="https://github.com/Aishanipach/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A4FC&center=true&vCenter=true&width=435&lines=Front-End+Developer;Designing%2C+Building+%26+Scaling;Sippin'+Coffee%2C+Missing+Semicolons">
+   </a>
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
